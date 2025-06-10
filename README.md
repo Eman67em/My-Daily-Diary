@@ -9,7 +9,7 @@ A simple and functional command-line diary application written in C.
 - Add new diary entries
 - View all saved entries
 - Search diary entries by date
-- Entries are saved in `diary.txt`
+- Entries are saved in text file
 
  How to Compile and Run
  Using GCC
